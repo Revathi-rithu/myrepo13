@@ -1,1 +1,3 @@
 git pull it sink the github changes and local directory
+git fetch it cannot distop the working directory
+git merge it merge the changs from the github
